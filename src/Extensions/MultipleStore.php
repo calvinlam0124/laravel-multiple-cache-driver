@@ -1,6 +1,6 @@
 <?php
 
-namespace Calvin\Extensions;
+namespace CalvinLam\LaravelMultipleCacheDriver\Extensions;
 
 use Illuminate\Cache\CacheManager;
 use Illuminate\Cache\DatabaseStore;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Calvin\Providers;
+namespace CalvinLam\LaravelMultipleCacheDriver\Providers;
 
-use Calvin\Extensions\MultipleStore;
+use CalvinLam\LaravelMultipleCacheDriver\Extensions\MultipleStore;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\ServiceProvider;
 

@@ -1,0 +1,24 @@
+{
+    "license": "MIT",
+    "name": "calvinlam/laravel-multiple-cache-driver",
+    "type": "library",
+    "keywords": ["laravel","cache","reids","database"],
+    "description": "Cache data to Redis and Database",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Calvin Lam",
+            "email": "calvinlam117@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "illuminate/support": "^5.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CalvinLam\\LaravelMultipleCacheDriver\\": "src/"
+        }
+
+    }
+}
